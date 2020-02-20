@@ -1,1 +1,23 @@
 doc
+logs
+
+# Binaries
+bapomdp
+fbapomdp
+planning
+tests
+
+# Python stuff
+analysis/.venv
+
+# Plotting stuff
+analysis/files.txt
+analysis/labels.txt
+analysis/results.txt
+
+# CMake results
+Makefile
+compile_commands.json
+CMakeCache.txt
+cmake_install.cmake
+CMakeFiles
